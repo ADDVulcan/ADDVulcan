@@ -26,6 +26,8 @@
 ### ADDVulcan Virtual Machine for Satellite Hacking
 Using [Virtual Box](https://www.virtualbox.org/wiki/Downloads) you can download our VM set up with helpful tools to get you started. Download the OVA VM Image and import into VirtualBox [ADDVulcan-Hack-A-Sat](https://drive.google.com/drive/folders/1LWPzghHtamR5CsnOS6ASfr3qKz8giw2T?usp=sharing)
 
+![](https://media.giphy.com/media/fXhTe5OLY5lDs8Ugj8/giphy.gif)
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people:
